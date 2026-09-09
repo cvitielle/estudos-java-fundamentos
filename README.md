@@ -1,18 +1,39 @@
-## Getting Started
+# estudos-java-fundamentos
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Repositório de registro da minha jornada de aprendizado em Java, durante minha transição de carreira para a área de tecnologia.
 
-## Folder Structure
+## Sobre
 
-The workspace contains two folders by default, where:
+Sou formada em Análise e Desenvolvimento de Sistemas e venho de uma trajetória em telecomunicações (supervisão, faturamento e representação comercial). Atualmente estou migrando para a área de tecnologia, com foco inicial em Análise de Dados/BI, e usando o estudo de Java como parte da minha formação técnica.
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+Este repositório documenta os exercícios e desafios práticos que venho resolvendo, junto com o raciocínio e os ajustes feitos ao longo do caminho — incluindo erros e correções, que fazem parte real do processo de aprendizagem.
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+## Conteúdo
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+| Arquivo | Tema | O que pratica |
+|---|---|---|
+| `Apresentacao.java` | Variáveis | Declaração de variáveis (`String`) e concatenação de texto |
+| `Condicional.java` | Estrutura condicional | `if/else`, operador de módulo (`%`), comparação (`==`) |
+| `Laco.java` | Laço de repetição | Estrutura `for`, incremento de variável |
 
-## Dependency Management
+## Como rodar
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+Cada arquivo pode ser executado individualmente com JDK instalado:
+
+```bash
+javac NomeDoArquivo.java
+java NomeDoArquivo
+```
+
+Ou diretamente pelo VS Code, com a extensão "Extension Pack for Java".
+
+## Progresso
+
+- [x] Fundamentos: variáveis, condicionais, laços
+- [ ] Estruturas de dados (arrays)
+- [ ] Orientação a objetos
+- [ ] Projeto de fixação
+
+---
+
+*Repositório em construção, atualizado conforme avanço nos estudos.*
