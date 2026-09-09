@@ -4,9 +4,9 @@ Repositório de registro da minha jornada de aprendizado em Java, durante minha 
 
 ## Sobre
 
-Sou formada em Análise e Desenvolvimento de Sistemas e venho de uma trajetória em telecomunicações (supervisão, faturamento e representação comercial). Atualmente estou migrando para a área de tecnologia, com foco inicial em Análise de Dados/BI, e usando o estudo de Java como parte da minha formação técnica.
+Sou formada em Análise e Desenvolvimento de Sistemas e venho de uma trajetória em telecomunicações (supervisão, faturamento e representação comercial). Atualmente estou migrando para a área de tecnologia, buscando minha primeira oportunidade na área.
 
-Este repositório documenta os exercícios e desafios práticos que venho resolvendo, junto com o raciocínio e os ajustes feitos ao longo do caminho — incluindo erros e correções, que fazem parte real do processo de aprendizagem.
+Este repositório documenta os exercícios e desafios práticos de Java que venho resolvendo ao longo desse processo.
 
 ## Conteúdo
 
@@ -23,6 +23,12 @@ Cada arquivo pode ser executado individualmente com JDK instalado:
 ```bash
 javac NomeDoArquivo.java
 java NomeDoArquivo
+```
+
+Exemplo prático:
+```bash
+javac Condicional.java
+java Condicional
 ```
 
 Ou diretamente pelo VS Code, com a extensão "Extension Pack for Java".
